@@ -8,7 +8,7 @@ In diesem Repository befinden sich mehrere Versuche, die Wahrscheinlichkeit und 
 
 - Das Ziel des Simple ANN war es, herauszufinden wie hoch die Gewinnwahrscheinlichkeit ist, wenn der Input nur aus dem Heim und Gast Team sowie aus dem Ergebnis über Sieg oder Niederlage besteht.
 
-- In dem ANNcomparison werden 50 Netze mit zufälliger Neuronenanzahl trainiert, um das die beste Anzahl herauszufinden.
+- In dem ANNcomparison werden 50 Netze mit zufälliger Neuronenanzahl trainiert, um die beste Anzahl herauszufinden.
 
 - ANN_moreFeatures beinhaltet zusätzlich zu den Daten aus dem SimpleANN die Zuschaueranzahl und die Hallenkapazität.
 
